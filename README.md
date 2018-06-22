@@ -11,9 +11,9 @@ Strips out common words from the given text file, generates a stock image from P
 
 Images are named with the convention of
 `wordOrderInText_pexelSearchKeyword.jpg`
+
 Example: `0_while.jpg`
 
 ### Example Output:
-![Running GeneratePexel](https://imgur.com/w4ZQguw.jpg)
-![Generated images in directory](https://imgur.com/jft1ZMQ.jpg)
-
+![Running GeneratePexel](https://imgur.com/jft1ZMQ.jpg "Completed output")
+![Generated images in directory](https://imgur.com/w4ZQguw.jpg "Generated Pexel images")
