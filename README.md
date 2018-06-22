@@ -1,12 +1,12 @@
 # Pexel Perfect
 #### Grace Chen, 6/21/18
 
-Created as a small personal project to practice web scraping with Python and to explore some useful Java libraries.
+Created as a small personal project to practice web scraping with Python's BeautifulSoup library and to explore some other useful Java libraries.
 
 ### Running the program
 `java GeneratePexel <filename>`
 
-pexel.py can be run as a standalone script to generate a random image URL from Pexels (or up to 15 URLs with small modifications) with 
+pexel.py can be run as a standalone script to generate a random image URL from Pexels (or up to 15 URLs with small modifications to the script) with 
 
 `python pexel.py <search term>`.
 
