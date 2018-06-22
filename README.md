@@ -6,7 +6,7 @@ Created as a small personal project to practice web scraping with Python and to 
 ### Running the program
 `java GeneratePexel <filename>`
 
-pexel.py can be run as a standalone script to generate a random image URL from Pexels with 
+pexel.py can be run as a standalone script to generate a random image URL from Pexels (or up to 15 URLs with small modifications) with 
 
 `python pexel.py <search term>`.
 
