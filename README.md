@@ -4,8 +4,16 @@
 Created as a small personal project to practice web scraping with Python and to explore some useful Java libraries.
 
 ### Running the program
-`java GeneratePexel.java <filename>`
+`java GeneratePexel <filename>`
 
 ### Purpose 
 Strips out common words from the given text file, generates a stock image from Pexels for 0-20% of the most important words, and downloads the stock images (with .jpg extension) to the user's computer under /pexel_imgs. Takes about 3 minutes to process 1k words.
+
+Images are named with the convention of
+`wordOrderInText_pexelSearchKeyword.jpg`
+Example: `0_while.jpg`
+
+### Example Output:
+![Running GeneratePexel](https://imgur.com/w4ZQguw.jpg)
+![Generated images in directory](https://imgur.com/jft1ZMQ.jpg)
 
