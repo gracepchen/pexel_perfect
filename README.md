@@ -6,7 +6,9 @@ Created as a small personal project to practice web scraping with Python and to 
 ### Running the program
 `java GeneratePexel <filename>`
 
-pexel.py can be run as a standalone script to generate a random image URL from Pexels with `python pexel.py <search term>`.
+pexel.py can be run as a standalone script to generate a random image URL from Pexels with 
+
+`python pexel.py <search term>`.
 
 ### Purpose 
 Strips out common words from the given text file, generates a stock image from Pexels for each of 0-20% of the most important words, and downloads the stock images (with .jpg extension) to the user's computer under /pexel_imgs. Takes about 3 minutes to process 1k words.
