@@ -14,6 +14,8 @@ Images are named with the convention of
 
 Example: `0_while.jpg`
 
+---
+
 ### Example Output:
 ![Running GeneratePexel](https://imgur.com/jft1ZMQ.jpg "Completed output")
 ![Generated images in directory](https://imgur.com/w4ZQguw.jpg "Generated Pexel images")
